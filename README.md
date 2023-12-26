@@ -16,5 +16,9 @@ GPL协议适用于大多数开源软件项目，它已成为开源软件行业�
 # HTML5 
 ## 1.0.1
 新款架构通用 作者：落幕 代码依托新款架构通用编写 80分
+[新款架构通用](https://github.com/orangeX21/HTML5_Web_design/blob/main/新款架构通用.html)
 ## 1.0.0
 通用 作者：落幕 代码自行编写 60分
+[通用](https://github.com/orangeX21/HTML5_Web_design/blob/main/通用.html)
+## 0.0.1
+无
