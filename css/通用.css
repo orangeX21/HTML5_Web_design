@@ -1,0 +1,21 @@
+a:link{
+    color: #ff0000
+}
+a:visited{
+    color: #00ff00
+}
+a:hover{
+    color: #0000ff
+}
+a:active{
+    color: #ff00ff
+}
+#end{
+    text-align: center
+}
+nav{
+    text-align: center
+}
+#header{
+    font-size: 40px
+}
